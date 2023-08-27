@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Event listener for the "Register a Patient" button
     registerPatientBtn.addEventListener("click", function () {
-        window.location.href = "registration.html";
+        window.location.href = "patient.html";
     });
 
     // Display initial list of registered patients
