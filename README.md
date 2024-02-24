@@ -1,2 +1,2 @@
 # Team-Pheonix
-HEALTHCARE RESOURCES MANAGEMENT Created by: Team Pheonix
+HOSPITAL RESOURCES MANAGEMENT Created by: Team Pheonix
